@@ -1,0 +1,26 @@
+name: rutgers
+channels:
+  - conda-forge
+dependencies:
+  - bokeh
+  - geoviews
+  - git
+  - gh
+  - holoviews
+  - hvplot
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - nomkl
+  - numpy
+  - pandas
+  - param
+  - plotly
+  - pygithub
+  - panel
+  - scipy
+  - scikit-learn
+  - pyyaml
+  - pip
+  - pip:
+    - contest
